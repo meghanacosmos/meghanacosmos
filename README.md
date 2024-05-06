@@ -10,8 +10,8 @@
 
 ## 👋 About Me
 
-- 👩‍💻 I'm currently working as a Software Developer (Full Stack) at [Needl AI](http://needl.ai/)
-- 👩‍🎓 I've recently graduated from IIT Bhilai ( BTech CSE '22 )
+- 👩‍💻 Previously worked as a Software Developer (Full Stack) at [Needl AI](http://needl.ai/)
+- 👩‍🎓 Recently graduated from IIT Bhilai ( BTech CSE '22 )
 - 💻 Previously worked remotely as SDE Intern at Needl AI & 9th Block Inc 
 
 ## Few things I've picked up along my journey
