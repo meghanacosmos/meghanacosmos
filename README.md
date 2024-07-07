@@ -10,9 +10,9 @@
 
 ## 👋 About Me
 
-- 👩‍💻 Previously worked as a Software Developer (Full Stack) at [Needl AI](http://needl.ai/)
+- 👩‍💻 Currently working as Frontend Engineer at @joinassembly
 - 👩‍🎓 Recently graduated from IIT Bhilai ( BTech CSE '22 )
-- 💻 Previously worked remotely as SDE Intern at Needl AI & 9th Block Inc 
+- 💻 Previously worked remotely at Needl AI, 9th Block Inc & Ignitus
 
 ## Few things I've picked up along my journey
 
